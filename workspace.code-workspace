@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": ".vscode",
+			"path": "..\\..\\..\\..\\code\\.vscode"
+		},
+		{
+			"name": "Newproject",
+			"path": "."
+		},
+		{
+			"name": "Newproject",
+			"path": "..\\..\\Documents\\PlatformIO\\Projects\\Newproject"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"utility": "cpp",
+			"ostream": "cpp",
+			"bitset": "cpp",
+			"string_view": "cpp",
+			"vector": "cpp",
+			"all": "cpp"
+		}
+	}
+}
